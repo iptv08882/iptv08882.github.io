@@ -653,3 +653,6 @@ http://iptv.tvmalaysia.cc:80/136915/136915/7202
 http://iptv.tvmalaysia.cc:80/136915/136915/7204
 #EXTINF:-1 group-title="Malaysia",Universal Kids FHD
 http://iptv.tvmalaysia.cc:80/136915/136915/7205
+#EXTINF:-1 tvg-name="ExtasY HD" group-title="18+", ExtasY HD
+#EXTGRP:18+
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
