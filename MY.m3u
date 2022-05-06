@@ -63,6 +63,8 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Undefined",TV2 (1080p)
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png" group-title="Undefined",TV3 (1080p)
+https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXR9pR4C10tmfXgowIKKibY9dBJ9H-9kN_ALeWgq8O6Es5BqncS-yQAEPP3KEJ9K6nA)/dm/3/x6qp375/d/live-4.m3u8
 #EXTINF:-1 tvg-id="TV6.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="Undefined",TV6 (1080p)
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1 tvg-id="TV8.my" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Undefined",TV8 (480p) [Not 24/7]
