@@ -3,6 +3,6 @@
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="Afghanistan",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.hk" tvg-country="MY" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Animal_Planet.svg/1200px-Animal_Planet.svg.png" group-title="Malaysia",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.my" tvg-country="MY" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Animal_Planet.svg/1200px-Animal_Planet.svg.png" group-title="Malaysia",Animal Planet
 http://iptv.tvmalaysia.cc:80/136915/136915/7077
 
