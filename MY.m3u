@@ -6,6 +6,9 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.my" tvg-country="MY" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Animal_Planet.svg/1200px-Animal_Planet.svg.png" group-title="Malaysia",Animal Planet
 http://iptv.tvmalaysia.cc:80/136915/136915/7077
 
+#EXTINF:-1 tvg-id="AstroAURA.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="Malaysia",astro AURA
+http://iptv.tvmalaysia.cc:80/136915/136915/6713
+
 #EXTINF:-1 tvg-id="AstroBOO.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Malaysia",astro BOO
 http://iptv.tvmalaysia.cc:80/136915/136915/8872
 
