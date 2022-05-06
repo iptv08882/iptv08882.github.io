@@ -12,6 +12,9 @@ http://iptv.tvmalaysia.cc:80/136915/136915/8872
 #EXTINF:-1 tvg-id="AstroCITRA.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="Malaysia",astro CITRA
 http://iptv.tvmalaysia.cc:80/136915/136915/7267
 
+#EXTINF:-1 tvg-id="AstroOASIS.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="Malaysia",astro OASIS
+http://iptv.tvmalaysia.cc:80/136915/136915/6725
+
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="Malaysia",astro PRIMA
 http://iptv.tvmalaysia.cc:80/136915/136915/6727
 
